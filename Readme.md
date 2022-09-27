@@ -1,6 +1,6 @@
 # Hey, there everyone `Jay Shah` here
 
-## [Live Project Demo](https://sass-landing-page-lake.vercel.app/)
+## [Live Project Demo](https://project-13-sass-page.netlify.app/)
 
 <br>
 
